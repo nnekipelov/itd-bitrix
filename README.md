@@ -1,5 +1,6 @@
 # itd-bitrix
 FreePBX integration module for Bitrix24
+
 Выполнить shell-скрипт, install.sh:
 <code>
 #!/bin/bash
